@@ -19,7 +19,7 @@ The dataset used is the **German Credit Data (numeric version)**.
 
 ## 📊 Dataset
 
-* **Source:** German Credit Data (numeric version)
+* **Source:** German Credit Data (numeric version) [Link](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 * **Features:**
 
   * Income, debts, payment history
