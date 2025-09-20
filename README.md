@@ -80,9 +80,9 @@ The dataset used is the **German Credit Data (numeric version)**.
 ## 📂 Repository Structure
 
 ```
-├── Credit_Scoring_Model.ipynb   # Jupyter Notebook with implementation
+├── Credit_Scoring_Model.ipynb
 ├── requirements.txt
-├── README.md                    # Project documentation
+├── README.md
 ```
 
 ---
