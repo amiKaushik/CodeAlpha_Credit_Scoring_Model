@@ -119,5 +119,5 @@ The dataset used is the **German Credit Data (numeric version)**.
 
 ## 📬 Contact
 
-👤 **Your Name**
+👤 **Kaushik**
 🔗 [LinkedIn](https://www.linkedin.com/in/kaushik-das-919928317) | [GitHub](https://github.com/amiKaushik)
