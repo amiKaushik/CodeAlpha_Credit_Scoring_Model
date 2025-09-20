@@ -92,8 +92,8 @@ The dataset used is the **German Credit Data (numeric version)**.
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/amiKaushik/Credit-Scoring-Model.git
-   cd Credit-Scoring-Model
+   git clone https://github.com/amiKaushik/CodeAlpha_Credit_Scoring_Model.git
+   cd CodeAlpha_Credit_Scoring_Model
    ```
 2. Install dependencies:
 
